@@ -3,9 +3,9 @@ import { Text, View, Image, StyleSheet } from 'react-native';
 import TabNavigation from './src/navigation/TabNavigation';
 const App = () => {
   return (
-  
-      <TabNavigation />
-
+    <View style={{flex:1}}>
+        <TabNavigation />
+    </View>
   )
 }
 

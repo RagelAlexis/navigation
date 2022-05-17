@@ -1,9 +1,9 @@
 import React from 'react'
-import CustomText from '../components/CustomText'
+import TextCustom from '../components/TextCustom'
 
 const TextScreen = () => {
   return (
-     <CustomText />
+     <TextCustom />
   )
 }
 

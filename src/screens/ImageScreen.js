@@ -1,9 +1,9 @@
 import React from 'react'
-import CustomImage from '../components/CustomImage'
+import ImageCustom from '../components/ImageCustom'
 
 const ImageScreen = () => {
   return (
-      <CustomImage />
+      <ImageCustom />
   )
 }
 
